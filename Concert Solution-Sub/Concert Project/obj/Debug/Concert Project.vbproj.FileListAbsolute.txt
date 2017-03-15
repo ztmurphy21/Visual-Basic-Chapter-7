@@ -1,0 +1,10 @@
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe.config
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.pdb
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.pdb

@@ -1,0 +1,11 @@
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\bin\Debug\Favorites Project.exe.config
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\bin\Debug\Favorites Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\bin\Debug\Favorites Project.pdb
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\bin\Debug\Favorites Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Favorites Solution\Favorites Project\obj\Debug\Favorites Project.pdb
