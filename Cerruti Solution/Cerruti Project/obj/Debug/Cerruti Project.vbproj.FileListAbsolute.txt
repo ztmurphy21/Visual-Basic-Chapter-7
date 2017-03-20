@@ -1,0 +1,11 @@
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+E:\College\Visual Basic\VB2015\Chap07\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb
