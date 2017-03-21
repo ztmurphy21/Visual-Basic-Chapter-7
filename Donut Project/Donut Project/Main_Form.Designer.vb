@@ -243,7 +243,7 @@ Partial Class Main_Form
         Me.btnCalc.Location = New System.Drawing.Point(608, 350)
         Me.btnCalc.Name = "btnCalc"
         Me.btnCalc.Size = New System.Drawing.Size(164, 38)
-        Me.btnCalc.TabIndex = 10
+        Me.btnCalc.TabIndex = 1
         Me.btnCalc.Text = "&Calculate"
         Me.btnCalc.UseVisualStyleBackColor = True
         '
@@ -252,7 +252,7 @@ Partial Class Main_Form
         Me.btnExit.Location = New System.Drawing.Point(608, 426)
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(164, 38)
-        Me.btnExit.TabIndex = 11
+        Me.btnExit.TabIndex = 2
         Me.btnExit.Text = "E&xit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
